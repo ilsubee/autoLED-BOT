@@ -1,4 +1,4 @@
-# autoLED-PASSAGGIO A LIVELLO
-passaggio a livello in miniatura
+# autoLED-SBARRA AUTOMAITCA
+sbarra automatica miniatura
 wiki: https://github.com/ilsubee/autoLED-BOT.wiki.git
 
